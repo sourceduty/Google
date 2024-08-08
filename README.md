@@ -13,7 +13,7 @@ Google Images and Google Earth also benefit from Sourceduty's contributions. The
 Sourceduty's work also extends to enhancing subtitle and caption functionalities on YouTube, with tools like YouTube Subtitles Converter and YouTube Subtitle Analytics. These tools offer advanced features for converting, analyzing, and summarizing video captions, making it easier for users to manage subtitles and derive insights from them. The Chrome_Context_Menu_Holder project further complements Google Chrome by allowing users to customize and extend the browser's context menu for more efficient navigation and task execution. Together, these tools demonstrate how Sourceduty's projects significantly enhance the usability and functionality of Google’s diverse range of products.
 
 #
-### Google & Microsoft
+### Sourceduty, Google & Microsoft
 
 Sourceduty leverages the robust platforms and services of both Google and Microsoft to create a suite of tools that enhance user experiences across a variety of applications. Sourceduty is able to build on top of well-established platforms like YouTube, Google Images, and Google Earth. For instance, tools like YouTube_Automation and Google_Earth_Dynamics utilize Google's infrastructure to provide users with automation capabilities and advanced geospatial interactions. These tools enhance productivity and streamline workflows, making it easier for users to manage content and interact with data more effectively.
 
