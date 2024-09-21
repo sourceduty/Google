@@ -13,6 +13,17 @@ Google Images and Google Earth also benefit from Sourceduty's contributions. The
 Sourceduty's work also extends to enhancing subtitle and caption functionalities on YouTube, with tools like YouTube Subtitles Converter and YouTube Subtitle Analytics. These tools offer advanced features for converting, analyzing, and summarizing video captions, making it easier for users to manage subtitles and derive insights from them. The Chrome_Context_Menu_Holder project further complements Google Chrome by allowing users to customize and extend the browser's context menu for more efficient navigation and task execution. Together, these tools demonstrate how Sourceduty's projects significantly enhance the usability and functionality of Google’s diverse range of products.
 
 #
+### Chrome AVIF Problem
+
+![AVIF](https://github.com/user-attachments/assets/5eae0502-da98-4e04-afb5-ed94b5fa82cb)
+
+Chrome has a limitation when it comes to downloading AVIF images easily. When users right-click on an AVIF image and try to save it, the browser often defaults to saving the image in a different format, such as WebP or PNG. This behavior can be problematic for users who specifically want to download the image in its original AVIF format. The issue stems from how Chrome handles image decoding and saving, which sometimes converts the image format during the download process.
+
+While Chrome does not offer native AVIF conversion capabilities, users can still convert images to and from AVIF using various browser-based tools. Extensions like "Image Converter" or web apps such as Squoosh allow for easy conversion between formats directly in the browser. These tools provide a convenient way to work with AVIF files without needing dedicated software, but they are external solutions rather than built-in features of Chrome itself.
+
+Editing the right-click menu in Chrome is not straightforward, as the native menu cannot be modified directly. However, users can install extensions like "Context Menu" or "Menu Editor" to add custom options and functionalities to the right-click menu. While these extensions enable additional features, such as quick image conversions or custom shortcuts, they cannot remove or alter Chrome's built-in options. This means that while enhancements are possible, full customization of the context menu remains limited.
+
+#
 ### Sourceduty, Google & Microsoft
 
 Sourceduty leverages the robust platforms and services of both Google and Microsoft to create a suite of tools that enhance user experiences across a variety of applications. Sourceduty is able to build on top of well-established platforms like YouTube, Google Images, and Google Earth. For instance, tools like YouTube_Automation and Google_Earth_Dynamics utilize Google's infrastructure to provide users with automation capabilities and advanced geospatial interactions. These tools enhance productivity and streamline workflows, making it easier for users to manage content and interact with data more effectively.
