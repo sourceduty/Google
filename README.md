@@ -42,11 +42,15 @@ Sourceduty leverages the robust platforms and services of both Google and Micros
 Similarly, Sourceduty also integrates Microsoft's tools and platforms into their development process. Microsoft offers a range of services like OneDrive, Microsoft 365, and Visual Studio, which provide powerful development environments and cloud computing capabilities. By combining Microsoft's robust enterprise solutions with Google's products and services, Sourceduty seamlessly utilizes both of these company's products and services. This integration allows Sourceduty to deliver comprehensive solutions that cater to a wide audience, utilizing the strengths of both companies to offer enhanced functionality, improved user interfaces, and greater efficiency in digital workflows.
 
 #
+### Terminal Chrome
 
-![Google](https://github.com/user-attachments/assets/c4f2bfa5-f17d-4485-ab46-720d75ad3bea)
+![Chrome_Terminal](https://github.com/user-attachments/assets/4aad076b-4176-4c38-b3b5-332fa4fa4ff4)
+
+This Python-based web search tool provides a seamless and efficient way for users to perform Google searches directly from the terminal. It not only displays the search results but also enables users to scrape the main textual content from the URLs of the results. Designed with robust error handling, the program ensures smooth execution by managing network issues, invalid responses, and unexpected errors. Additionally, built-in logging functionality tracks program activity, providing valuable insights for debugging and monitoring. The program offers users the ability to export both the search results and the scraped content into a text file, making it ideal for further analysis or offline use. With an intuitive, structured user interface, the tool supports scraping multiple pages of search results, allowing users to navigate through different results pages. Users are prompted to either continue scraping more results or exit the process based on their preferences. Overall, this program is a powerful, user-friendly solution for performing Google searches and extracting web content directly from the terminal.
 
 #
-
+![Google](https://github.com/user-attachments/assets/c4f2bfa5-f17d-4485-ab46-720d75ad3bea)
+#
 > Alex: "*Some of my open source ideas are specifically developed for Google products or services, and I want to work for or with Google more in the future.*"
 
 #
