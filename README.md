@@ -83,6 +83,8 @@ This Python-based web search tool provides a seamless and efficient way for user
 [Road Optimizer](https://github.com/sourceduty/Road_Optimizer)
 <br>
 [YouTube](https://github.com/sourceduty/YouTube)
+<br>
+[Terminal](https://github.com/sourceduty/Terminal)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
