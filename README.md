@@ -1,4 +1,4 @@
-![ChatGPT Replaced Google](https://github.com/user-attachments/assets/24b1893f-5024-4614-81c6-2059c8aad63c)
+![Google Ship](https://github.com/user-attachments/assets/e6eeb35e-fdee-44c8-b710-62e6d6981a26)
 
 > A global technology leader known for its diverse range of products and services.
 
@@ -46,6 +46,8 @@ Efforts to mitigate the downsides of personalization include providing users wit
 #
 ### Sourceduty, Google & Microsoft
 
+![ChatGPT Replaced Google](https://github.com/user-attachments/assets/24b1893f-5024-4614-81c6-2059c8aad63c)
+
 Sourceduty leverages the robust platforms and services of both Google and Microsoft to create a suite of tools that enhance user experiences across a variety of applications. Sourceduty is able to build on top of well-established platforms like YouTube, Google Images, and Google Earth. For instance, tools like YouTube_Automation and Google_Earth_Dynamics utilize Google's infrastructure to provide users with automation capabilities and advanced geospatial interactions. These tools enhance productivity and streamline workflows, making it easier for users to manage content and interact with data more effectively.
 
 Similarly, Sourceduty also integrates Microsoft's tools and platforms into their development process. Microsoft offers a range of services like OneDrive, Microsoft 365, and Visual Studio, which provide powerful development environments and cloud computing capabilities. By combining Microsoft's robust enterprise solutions with Google's products and services, Sourceduty seamlessly utilizes both of these company's products and services. This integration allows Sourceduty to deliver comprehensive solutions that cater to a wide audience, utilizing the strengths of both companies to offer enhanced functionality, improved user interfaces, and greater efficiency in digital workflows.
@@ -60,7 +62,7 @@ This Python-based web search tool provides a seamless and efficient way for user
 #
 ![Google](https://github.com/user-attachments/assets/c4f2bfa5-f17d-4485-ab46-720d75ad3bea)
 #
-> Alex: "*Some of my open source ideas are specifically developed for Google products or services, and I want to work for or with Google more in the future.*"
+> Alex: "*Some of my open source ideas are specifically developed for Google products or services.*"
 
 #
 ### Related Links
